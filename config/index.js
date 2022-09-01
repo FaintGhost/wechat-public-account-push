@@ -39,9 +39,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "陕西",
+    PROVINCE: "北京",
     // 所在城市
-    CITY: "西安",
+    CITY: "北京",
 
     /** 重要节日相关 */
 
